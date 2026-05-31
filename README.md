@@ -87,6 +87,7 @@ The number that changes how people think about housing.
 ---
 
 ## Pipeline Architecture
+```
 User types a question
 ↓
 Step 1 — Streamlit: input validation + sidebar filters
@@ -98,10 +99,12 @@ Step 3 — SearchAPI: fetches live listings from Lamudi, Dot Property, etc.
 Step 4 — Claude Haiku: matches results + formats answer
 ↓
 Step 5 — Streamlit: displays map / TMC / cards / chart
+```
 
 ---
 
 ## Project Structure
+```
 NCR-Real-Estate-Chatbot/
 ├── app.py                  ← Main entry point
 ├── requirements.txt
@@ -123,7 +126,8 @@ NCR-Real-Estate-Chatbot/
 ├── slides/
 │   └── NCR Real Estate Intelligence – AI Startup Builder Challenge.pptx
 └── utils/
-└── session.py
+    └── session.py
+```
 
 ---
 
