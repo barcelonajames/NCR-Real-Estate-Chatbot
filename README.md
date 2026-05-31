@@ -139,7 +139,7 @@ future roadmap:
 
 [View Presentation Deck](slides/NCR%20Real%20Estate%20Intelligence%20-%20AI%20Startup%20Builder%20Challenge.pptx)
 
-[View on Google Drive (PDF)](https://drive.google.com/file/d/1fUlknXqe1qOOkzBZnaRSVwd-rZs3awA7/view?usp=sharing)
+[View on Google Drive (PDF)](https://docs.google.com/presentation/d/1I4Eed4VM4W3IcpKV9uMsS8bka3zbtPUu/edit?usp=sharing&ouid=110021476067684960726&rtpof=true&sd=true)
 
 ---
 
