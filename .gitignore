@@ -1,0 +1,30 @@
+# ── SENSITIVE FILES — never upload these to GitHub ──
+.env
+
+# ── PYTHON CACHE FILES — auto-generated, not needed in GitHub ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── VIRTUAL ENVIRONMENT FOLDERS ──
+.venv/
+venv/
+env/
+ENV/
+
+# ── STREAMLIT LOCAL CONFIG ──
+.streamlit/secrets.toml
+
+# ── OPERATING SYSTEM FILES ──
+.DS_Store        # Mac
+Thumbs.db        # Windows
+
+# ── EDITOR / IDE FILES ──
+.vscode/settings.json
+*.swp
+
+# ── BUILD / DISTRIBUTION FILES ──
+dist/
+build/
+*.egg-info/
